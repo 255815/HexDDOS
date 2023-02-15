@@ -9,7 +9,7 @@
 
 ### Installation
 
-1. <code>git clone https://github.com/255815/HexDDOS/</code>
+1. <code>git clone https://github.com/HexBuddy/HexDDOS/</code>
 2. <code>sudo su</code>
 3. <code>cd HexDDOS</code>
 4. <code>pip3 install -r requirements.txt</code>
