@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.discordapp.net/attachments/1028324425365458994/1075467991493394552/DDoS1_1.png?width=998&height=488" width="540px" height="150px" alt="ddos"></p>
+<p align="center"><img src="https://media.discordapp.net/attachments/1028324425365458994/1075467991493394552/DDoS1_1.png?width=998&height=500" width="540px" height="150px" alt="ddos"></p>
 
 <h1 align="center">HexDDoS - DDoS Attack Script With 56 Methods</h1>
 <em><h5 align="center">(Programming Language - Python 3)</h5></em>
