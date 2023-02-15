@@ -3,6 +3,21 @@
 <h1 align="center">HexDDoS - DDoS Attack Script With 56 Methods</h1>
 <em><h5 align="center">(Programming Language - Python 3)</h5></em>
 
+
+
+## Getting Started
+
+### Installation
+
+1. <code> git clone https://github.com/255815/HexDDOS/ </code>
+2. <code> sudo su </code>
+3. <code>cd HexDDOS</code>
+4. <code>pip3 install -r requirments.txt</code>
+
+### Usage Examples
+
+<code> python3 start.py OVH https://example.com/ 0 1000 http.txt 100 1000 </code>
+
 ## Features And Methods
 
  * 💣 Layer7
@@ -73,18 +88,6 @@ python3 start.py tools
   * 👑 HELP | Show Usage Script
 
 
-## Getting Started
-
-### Installation
-
-1. <code> git clone https://github.com/255815/HexDDOS/ </code>
-2. <code> sudo su </code>
-3. <code>cd HexDDOS</code>
-4. <code>pip3 install -r requirments.txt</code>
-
-### Usage Examples
-
-<code> python3 start.py OVH https://example.com/ 0 1000 http.txt 100 1000 </code>
 
 **Requirements**
 
@@ -100,7 +103,7 @@ python3 start.py tools
 * [yarl](https://github.com/aio-libs/yarl)
 ---
 
-<b>Telegram</b>: <code>bc1q7dhut0fp3sqmz95kth0munte6exzlrne23jtjh</code></br>
-<b>Instagram</b>: <code>0xff2fAF77705de1b842fCbA29c95E5C9e7dc266Dc</code></br>
+<b>Telegram</b>: <code>HexBuddy127001</code></br>
+<b>Instagram</b>: <code>hex_buddy</code></br>
 <b>BTC</b>: <code>bc1qdlmjmcmr3wfqr6shpcgt3letmd93ps0qh3gqpm</code></br></br>
 
