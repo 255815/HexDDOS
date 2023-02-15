@@ -77,7 +77,7 @@ python3 start.py tools
 
 ##Usage Examples
 
-<code>python3 start.py <Method> <URL> 0 <Threads> http.txt 100 <Time></code>
+'''python3 start.py < Method > < URL > 0 < Threads > http.txt 100 < Time >'''
 
 **Requirements**
 
