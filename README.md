@@ -1,6 +1,6 @@
-<p align="center"><img src="https://cdn.discordapp.com/attachments/938175699326484490/948263435412598864/unknown_2.png" width="400px" height="150px" alt="ddos"></p>
+<p align="center"><img src="[https://cdn.discordapp.com/attachments/938175699326484490/948263435412598864/unknown_2.png](https://a.pomf.cat/oxpqpz.png)" width="400px" height="150px" alt="ddos"></p>
 
-<h1 align="center">MHDDoS - DDoS Attack Script With 56 Methods</h1>
+<h1 align="center">HexDDoS - DDoS Attack Script With 56 Methods</h1>
 <em><h5 align="center">(Programming Language - Python 3)</h5></em>
 
 ## Features And Methods
@@ -89,8 +89,7 @@ python3 start.py tools
 * [yarl](https://github.com/aio-libs/yarl)
 ---
 
-<b>BTC</b>: <code>bc1q7dhut0fp3sqmz95kth0munte6exzlrne23jtjh</code></br>
-<b>ETH</b>: <code>0xff2fAF77705de1b842fCbA29c95E5C9e7dc266Dc</code></br>
-<b>USDT TRC20</b>: <code>TNeZtxhaYYseJoUS2LWmao6cDbYciprhKz</code></br></br>
-<b>Toman</b>: https://idpay.ir/mh-prodev</br>
+<b>Telegram</b>: <code>bc1q7dhut0fp3sqmz95kth0munte6exzlrne23jtjh</code></br>
+<b>Instagram</b>: <code>0xff2fAF77705de1b842fCbA29c95E5C9e7dc266Dc</code></br>
+<b>BTC</b>: <code>bc1qdlmjmcmr3wfqr6shpcgt3letmd93ps0qh3gqpm</code></br></br>
 
